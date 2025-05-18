@@ -11,7 +11,7 @@ import "./globals.css";
 const font = Nunito({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Duolingo Clone",
+  title: "Chat Lingo",
   description: "Learn, practice, and master new languages with Lingo",
 };
 
